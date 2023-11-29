@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
@@ -81,10 +82,31 @@ public class QuizApplication extends JFrame {
             }
         });
 
-        // Shuffle the questions
-        java.util.List<String> questionList = Arrays.asList(questions);
-        Collections.shuffle(questionList);
-        questions = questionList.toArray(new String[0]);
+        // Shuffle questions, choices, and correct answers together
+        java.util.List<Integer> indexList = new ArrayList<>();
+        for (int i = 0; i < questions.length; i++) {
+            indexList.add(i);
+        }
+        Collections.shuffle(indexList);
+
+        String[] shuffledQuestions = new String[questions.length];
+        String[][] shuffledChoices = new String[choices.length][choices[0].length];
+        int[] shuffledCorrectAnswers = new int[correctAnswers.length];
+
+        for (int i = 0; i < indexList.size(); i++) {
+            int oldIndex = indexList.get(i);
+            shuffledQuestions[i] = questions[oldIndex];
+            shuffledCorrectAnswers[i] = correctAnswers[oldIndex];
+
+            for (int j = 0; j < choices[0].length; j++) {
+                shuffledChoices[i][j] = choices[oldIndex][j];
+            }
+        }
+
+        // Update the arrays with shuffled values
+        questions = shuffledQuestions;
+        choices = shuffledChoices;
+        correctAnswers = shuffledCorrectAnswers;
 
         // Initialize and add the timer label to the JFrame
         timerLabel = new JLabel();
@@ -95,6 +117,7 @@ public class QuizApplication extends JFrame {
         showQuestion();
         startTimer();
     }
+
 
     // Method to display the current question and options
     private void showQuestion() {
