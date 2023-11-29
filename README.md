@@ -14,8 +14,14 @@ Display Results: Show the total marks, average percentage, and the corresponding
 
 ### Implementation Details
 
-Run ```javac GradeCalculator.java``` in terminal
-then ```java GradeCalculator```
+Run in terminal
+```bash
+javac GradeCalculator.java
+``` 
+then 
+```bash
+java GradeCalculator
+```
 
 ---
 
