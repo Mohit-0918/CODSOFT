@@ -41,8 +41,14 @@ java GradeCalculator
 
 ### Implementation Details
 
-Run ```javac ATM_System.java``` in terminal
-then ```java ATM_System```
+Run in terminal
+```bash
+javac ATM_System.java
+```
+then 
+```bash
+java ATM_System
+```
 
 ---
 
@@ -60,7 +66,13 @@ Result Screen: Display the final score and a summary of correct/incorrect answer
 
 ### Implementation Details
 
-Run ```javac QuizApplication.java``` in terminal
-then ```java QuizApplication```
+Run in terminal
+```bash
+javac QuizApplication.java
+```
+then 
+```bash
+java QuizApplication
+```
 
 ---
