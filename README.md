@@ -13,8 +13,8 @@ Display Results: Show the total marks, average percentage, and the corresponding
 
 ### Task Images
 
-![Grade Calculator Image 1](https://github.com/Pankaj-Bind/codesoft/blob/main/Task%202%20Student%20Grade%20Calculator/output1.png)
-![Grade Calculator Image 2](https://github.com/Pankaj-Bind/codesoft/blob/main/Task%202%20Student%20Grade%20Calculator/output2.png)
+![Grade Calculator Image 1](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-01-39.png)
+![Grade Calculator Image 2](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-01-44.png)
 
 ### Implementation Details
 
@@ -37,9 +37,8 @@ then ```java GradeCalculator```
 
 ### Task Images
 
-![ATM Interface Image 1](https://github.com/Pankaj-Bind/codesoft/blob/main/Task%203%20ATM%20Interface/output1.png)
-![ATM Interface Image 2](https://github.com/Pankaj-Bind/codesoft/blob/main/Task%203%20ATM%20Interface/output2.png)
-![ATM Interface Image 2](https://github.com/Pankaj-Bind/codesoft/blob/main/Task%203%20ATM%20Interface/output3.png)
+![ATM Interface Image 2](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-00-45.png)
+![ATM Interface Image 2](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-00-51.png)
 
 ### Implementation Details
 
@@ -61,7 +60,7 @@ Result Screen: Display the final score and a summary of correct/incorrect answer
 
 ### Task Images
 
-![Quiz Application Image 1](https://github.com/Pankaj-Bind/codesoft/blob/main/Task%204%20Quiz%20Application%20With%20Timer/output1.png)
+![Quiz Application Image 1](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-02-32.png)
 
 ### Implementation Details
 
