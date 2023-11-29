@@ -13,7 +13,7 @@ Display Results: Show the total marks, average percentage, and the corresponding
 
 ### Task Images
 
-![Grade Calculator Image 1](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-01-39.png)
+![Grade Calculator Image 1](Screenshot%20from%202023-11-29%2022-01-39.png)
 ![Grade Calculator Image 2](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-01-44.png)
 
 ### Implementation Details
