@@ -11,10 +11,6 @@ average percentage.
 Grade Calculation: Assign grades based on the average percentage achieved.
 Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
-### Task Images
-
-![Grade Calculator Image 1](Screenshot%20from%202023-11-29%2022-01-39.png)
-![Grade Calculator Image 2](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-01-44.png)
 
 ### Implementation Details
 
@@ -35,10 +31,7 @@ then ```java GradeCalculator```
 6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
 7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
 
-### Task Images
 
-![ATM Interface Image 2](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-00-45.png)
-![ATM Interface Image 2](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-00-51.png)
 
 ### Implementation Details
 
@@ -58,9 +51,6 @@ then ```java ATM_System```
 5. Score Calculation: Keep track of the user's score based on correct answers.
 Result Screen: Display the final score and a summary of correct/incorrect answers.
 
-### Task Images
-
-![Quiz Application Image 1](https://github.com/Mohit-0918/CODSOFT/blob/c24f935af80d0cfb55fa66ec6beb1b3ce5ae297e/Screenshot%20from%202023-11-29%2022-02-32.png)
 
 ### Implementation Details
 
